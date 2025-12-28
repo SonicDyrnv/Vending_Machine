@@ -1,0 +1,10 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+D:/Internship/Verilog/Vending_Machine/vend_mach/vend_mach.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,,,,,,,
+D:/Internship/Verilog/Vending_Machine/vend_mach/vend_mach.srcs/sim_1/new/testbench_vending_machine.v,1766929499,verilog,,,,testbench_vending_machine,,,../../../../../../../../XilinxVivado/2025.2/Vivado/data/rsb/busdef,,,,,
+D:/Internship/Verilog/Vending_Machine/vend_mach/vend_mach.srcs/sources_1/new/DFF.v,1766755874,verilog,,D:/Internship/Verilog/Vending_Machine/vend_mach/vend_mach.srcs/sources_1/new/FullAdder.v,,DFF,,,../../../../../../../../XilinxVivado/2025.2/Vivado/data/rsb/busdef,,,,,
+D:/Internship/Verilog/Vending_Machine/vend_mach/vend_mach.srcs/sources_1/new/FullAdder.v,1766755828,verilog,,D:/Internship/Verilog/Vending_Machine/vend_mach/vend_mach.srcs/sources_1/new/handelling_of_bs.v,,FullAdder,,,../../../../../../../../XilinxVivado/2025.2/Vivado/data/rsb/busdef,,,,,
+D:/Internship/Verilog/Vending_Machine/vend_mach/vend_mach.srcs/sources_1/new/handelling_of_bs.v,1766755978,verilog,,D:/Internship/Verilog/Vending_Machine/vend_mach/vend_mach.srcs/sources_1/new/vending_mach.v,,handelling_of_bs,,,../../../../../../../../XilinxVivado/2025.2/Vivado/data/rsb/busdef,,,,,
+D:/Internship/Verilog/Vending_Machine/vend_mach/vend_mach.srcs/sources_1/new/vending_mach.v,1766929620,verilog,,D:/Internship/Verilog/Vending_Machine/vend_mach/vend_mach.srcs/sim_1/new/testbench_vending_machine.v,,vending_mach,,,../../../../../../../../XilinxVivado/2025.2/Vivado/data/rsb/busdef,,,,,

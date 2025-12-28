@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../../../../../XilinxVivado/2025.2/Vivado/data/rsb/busdef" \
+"../../../../vend_mach.srcs/sources_1/new/DFF.v" \
+"../../../../vend_mach.srcs/sources_1/new/FullAdder.v" \
+"../../../../vend_mach.srcs/sources_1/new/handelling_of_bs.v" \
+"../../../../vend_mach.srcs/sources_1/new/vending_mach.v" \
+"../../../../vend_mach.srcs/sim_1/new/testbench_vending_machine.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
